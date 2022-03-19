@@ -20,6 +20,7 @@ function init() {
     });
   }
   
+  
   // Initialize the dashboard
   init();
   
@@ -143,7 +144,7 @@ function init() {
 
     // 2. Create the layout for the bubble chart.
     var bubbleLayout = {
-      title: 'Bacteria Cultures Per Sample',
+      title: '<b>Bacteria Cultures Per Sample<b>',
       showlegend: false,
       xaxis: {title: "OTU ID", automargin: true},
       yaxis: {title: "sample values",automargin: true},
@@ -181,10 +182,10 @@ function init() {
     // Create the yticks for the bar chart.
 
     // Use Plotly to plot the bar data and layout.
-    Plotly.newPlot();
+   // Plotly.newPlot();
     
     // Use Plotly to plot the bubble data and layout.
-    Plotly.newPlot();
+    //Plotly.newPlot();
    
     
     // 4. Create the trace for the gauge chart.
