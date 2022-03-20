@@ -120,7 +120,7 @@ function buildCharts(sample) {
     //d3.json("samples.json").then((data) => {
 
     // 1. Create the trace for the bubble chart.
-    var bubbleData = [{
+    var bubbleTrace = [{
       x: otuIds,
       y: sampleValues,
       text: otuLabels,
@@ -131,7 +131,7 @@ function buildCharts(sample) {
         colorscale: "Earth"
       }
     }];
-    console.log(bubbleData);
+    console.log(bubbleTrace);
     // 2. Create the layout for the bubble chart.
     var bubbleLayout = {
       title: 'Bacteria Cultures Per Sample',
@@ -144,7 +144,7 @@ function buildCharts(sample) {
     console.log(bubbleLayout);
 
     // 3. Use Plotly to plot the data with the layout.
-    Plotly.newPlot("bubble", bubbleData, bubbleLayout, {responsive: true});
+    Plotly.newPlot("bubble", bubbleTrace, bubbleLayout, {responsive: true});
 
     // 1. Create a variable that filters the metadata array for the object with the desired sample number.
     var metadata_SelId = data.metadata.filter(data => data.id == sample);
@@ -168,13 +168,13 @@ function buildCharts(sample) {
             tickvals: [0,2,4,6,8,10],
             ticktext: [0,2,4,6,8,10]
           },
-          bar: {color: "black"},
+          bar: {color: "dark green"},
           steps: [
-            { range: [0, 2], color: "red" },
+            { range: [0, 2], color: "purple" },
             { range: [2, 4], color: "orange" },
-            { range: [4, 6], color: "yellow" },
-            { range: [6, 8], color: "lime" },
-            { range: [8, 10], color: "green" }]
+            { range: [4, 6], color: "lime"},
+            { range: [6, 8], color: "yellow"  },
+            { range: [8, 10], color: "magenta" }]
         }
       }
     ];
@@ -189,7 +189,7 @@ function buildCharts(sample) {
         xanchor: 'center',
         y: 0,
         yanchor: 'center',
-        text: "The gauge displays your belly button weekly washing frequency",
+        text: "The gauge displays your belly button </br><br>weekly washing frequency",
         showarrow: false
       }]
     };
