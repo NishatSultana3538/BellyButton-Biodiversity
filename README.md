@@ -20,19 +20,11 @@ Using two javascript file [charts.js](), one json file [samples.json]() and [ind
 
 Below is how the website looks like
 
-![BellyButton-Biodiversity](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/website.png)
+![BellyButton-Biodiversity](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/website1.png)
 
 On ipad air
 
 ![ipad_air](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/mobileResponsive.png)
-
-
-
- ![]() 
-
-
-![]() 
-
 
 
 
@@ -52,20 +44,14 @@ After changing  volunteer ID, the following bar chart , gauge chart and bubble c
 
 The website also responsive to hover over option and interactive:
 
-![Bubble_hover]()
+![Bubble_hover](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/bubble_hover.png)
 
 
-![Bar_hover]()
+![Bar_hover](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/bar_hover.png)
 
 
 
-## Summary:
 
-### Drawback of this webpage 
-*
-### Two additional recommendations
-
-* 
 
 
 
