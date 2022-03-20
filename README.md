@@ -20,11 +20,11 @@ Using two javascript file [charts.js](), one json file [samples.json]() and [ind
 
 Below is how the website looks like
 
-![BellyButton-Biodiversity]()
+![BellyButton-Biodiversity](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/website.png)
 
 On ipad air
 
-![ipad_air]()
+![ipad_air](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/mobileResponsive.png)
 
 
 
@@ -43,12 +43,12 @@ Using the drop down menu a volunteer ID can be chosen and  that person's demogra
 After changing  volunteer ID, the following bar chart , gauge chart and bubble chart is displayed in the dashboard.
 
 
-![Bar]()
+![Bar](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/Bar.png)
 
-![Gauge]()
+![Gauge](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/gauge%20.png)
 
 
-![Bubble]()
+![Bubble](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/bubble.png)
 
 The website also responsive to hover over option and interactive:
 
