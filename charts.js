@@ -172,7 +172,7 @@ function buildCharts(sample) {
           steps: [
             { range: [0, 2], color: "purple" },
             { range: [2, 4], color: "orange" },
-            { range: [4, 6], color: "lime"},
+            { range: [4, 6], color: "red"},
             { range: [6, 8], color: "yellow"  },
             { range: [8, 10], color: "magenta" }]
         }
