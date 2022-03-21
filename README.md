@@ -16,15 +16,15 @@ Software: HTML, JavaScript, BootStrap 4.0.0
 The website link deployed in github is https://nishatsultana3538.github.io/BellyButton-Biodiversity/
 
 
-Using two javascript file [charts.js](), one json file [samples.json]() and [index.html]() file I have generated a dashboard where a dropdown menu is listed  with the ID numbers of all the volunteers. When a volunteer ID is chosen from the dropdown menu, that person's demographics information as well as top 10 bacteria Cultures, bacteria Cultures per sample and belly button washing frequency per week will be displayed in the dashboard.
+Using two javascript file [charts.js](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/charts.js), one json file [samples.json](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/samples.json) and [index.html](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/index.html) file I have generated a dashboard where a dropdown menu is listed  with the ID numbers of all the volunteers. When a volunteer ID is chosen from the dropdown menu, that person's demographics information as well as top 10 bacteria Cultures, bacteria Cultures per sample and belly button washing frequency per week will be displayed in the dashboard.
 
 Below is how the website looks like
 
 ![BellyButton-Biodiversity](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/website1.png)
 
-On ipad air
+On Surface Pro 7
 
-![ipad_air](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/mobileResponsive.png)
+![Surface_Pro 7](https://github.com/NishatSultana3538/BellyButton-Biodiversity/blob/main/image/mobileResponsive.png)
 
 
 
